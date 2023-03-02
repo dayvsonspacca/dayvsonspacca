@@ -38,7 +38,7 @@
 ## Experiência
 
 - 👨‍💻 **Estágiario desenvolvimento de projetos**\
-📆 2021 - atual\
+📆 2022 - atual\
 📍 **Antonio Braz & Advogados Associados** - Recife, Brazil
   
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
