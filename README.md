@@ -1,63 +1,73 @@
+<h2 align="left">Olá 👋! Meu nome é Dayvson!</h2>
 
+###
 
-<h1 align='center'>
- Olá 👋, me chamo Dayvson!
-</h1>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dayvsonspacca&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=n/j[/Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayvsonspacca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align='center'>
-  Sou um Desenvolvedor Web e aspirante a full-stack!
-</p>
+###
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/dayvson-spacca-b88402234/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left"></p>
+
+###
+
+<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1ccae73-48b5-409b-86fd-8bb9b524d6b7/de0ud94-a0d50abe-5587-4e21-95f0-bb58e29ab550.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ExY2NhZTczLTQ4YjUtNDA5Yi04NmZkLThiYjliNTI0ZDZiN1wvZGUwdWQ5NC1hMGQ1MGFiZS01NTg3LTRlMjEtOTVmMC1iYjU4ZTI5YWI1NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.id6X4hDJVlBbgZIVeMbqEPTanX8JJZroaAQ34mBTzpo"  />
+
+###
+
+<div align="left">
+  <h3>Atualmente eu desenvolvo usando essas ferramentas</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+</div>
+
+###
+
+<div align="left">
+  <h3>Estudando.. 📚📚</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <h3>Contatos</h3>
+  <a href="spacca.dayvson@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href='mailto:spacca.dayvson@gmail.com'>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dayvsonspacca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dayvsonspacca&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-
-<details>
-  <summary>📃 Resumo</summary>
-  
-## Formação
-
-- 📖 **Técnico análise de sistemas**\
-📆 2019 - 2021\
-📍 **Escola técnica estadual Porto Digital** - Recife, Brasil.
-
-- 📖 **Análise e desenvolvimento de sistemas**\
-📆 2022 - 2024\
-📍 **Faculdade Senac de Pernambuco** - Recife, Brasil.
-
-## Experiência
-
-- 👨‍💻 **Estágiario desenvolvimento de projetos**\
-📆 2022 - atual\
-📍 **Antonio Braz & Advogados Associados** - Recife, Brazil
-  
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-
-  
-## Estudando 📚📚
-
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> 
-
-  
-
-
- 
+###
