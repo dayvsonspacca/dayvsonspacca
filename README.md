@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dayvsonspacca&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=n/j[/Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayvsonspacca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dayvsonspacca&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=n/j[/Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayvsonspacca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
