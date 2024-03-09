@@ -17,7 +17,7 @@
 
 ###
 
-<h3>Atualmente eu desenvolvo usando essas ferramentas</h3>
+<h3>Ferramentas</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=css,docker,express,html,js,ts,linux,mysql,nestjs,nextjs,nodejs,php,pnpm,postgres,py,react,rust,tailwind,ubuntu,vscode&perline=10)](https://skillicons.dev)
 
