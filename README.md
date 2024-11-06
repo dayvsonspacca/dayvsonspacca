@@ -22,6 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css,docker,express,html,js,ts,linux,mysql,nestjs,nextjs,nodejs,php,pnpm,postgres,py,react,rust,tailwind,ubuntu,vscode&perline=10)](https://skillicons.dev)
 
 ###
+![](https://komarev.com/ghpvc/?username=dayvsonspacca)
 
 <br clear="both">
 
