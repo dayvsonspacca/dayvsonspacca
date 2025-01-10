@@ -1,5 +1,3 @@
-<h2 align="left">Olá 👋! Meu nome é Dayvson!</h2>
-
 ###
 
 <div align="center">
